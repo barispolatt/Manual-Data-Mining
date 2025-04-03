@@ -1,4 +1,4 @@
-# Web Scraping Contact Information with Selenium and Undetected Chromedriver
+# Web Scraping Contact Information with Selenium
 
 ## Overview
 This Python script automates the process of extracting contact information (emails and phone numbers) from company websites. It performs Google searches for company names provided in an Excel file, navigates to the most relevant company website, and scrapes contact details. The extracted data is then saved in an output Excel file.
